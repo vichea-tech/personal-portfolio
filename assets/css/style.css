@@ -30,6 +30,14 @@
 /*-------------------------
          GENERAL
 -------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khmer:wght@100..900&display=swap');
+#khmer_name{
+
+  font-family: "Noto Serif Khmer", serif;
+  font-optical-sizing: auto;
+  font-weight: 350;
+
+}
 body {
   font-family: "Muli", sans-serif;
   overflow-x: hidden; }
